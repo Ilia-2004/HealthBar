@@ -1,0 +1,8 @@
+F:\Ilya\Programming\HealthBar\HealthBar\bin\Debug\HealthBar.exe.config
+F:\Ilya\Programming\HealthBar\HealthBar\bin\Debug\HealthBar.exe
+F:\Ilya\Programming\HealthBar\HealthBar\bin\Debug\HealthBar.pdb
+F:\Ilya\Programming\HealthBar\HealthBar\obj\Debug\HealthBar.csproj.AssemblyReference.cache
+F:\Ilya\Programming\HealthBar\HealthBar\obj\Debug\HealthBar.csproj.SuggestedBindingRedirects.cache
+F:\Ilya\Programming\HealthBar\HealthBar\obj\Debug\HealthBar.csproj.CoreCompileInputs.cache
+F:\Ilya\Programming\HealthBar\HealthBar\obj\Debug\HealthBar.exe
+F:\Ilya\Programming\HealthBar\HealthBar\obj\Debug\HealthBar.pdb
